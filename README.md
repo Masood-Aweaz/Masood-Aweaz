@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Masood-Aweaz
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning ML with Data Science 
+- 🌱 I’m currently learning Machine Learning with Data Science 
 - 💞️ I’m looking to collaborate on projects related to App Devlopment 
 - 📫 How to reach me aweaz7@gmail.com
 
